@@ -1,4 +1,4 @@
-module github.com/lishimeng/serial-boardcast
+module github.com/lishimeng/serial-broadcast
 
 go 1.13
 
